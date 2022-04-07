@@ -1,0 +1,32 @@
+[10:36:50] WARNING: Please provide your Discord Bot token in _config.yml
+[16:01:11] INFO: Connected as Annoy Chat#3547 [16:1]
+[16:01:21] INFO: 0, 0
+[16:01:31] INFO: 0, 0
+[16:50:31] WARNING: Please provide your Discord Bot token in _config.yml
+[16:51:14] INFO: GOOD ONE
+[16:51:14] INFO: Connected as Annoy Chat#3547 [16:51]
+[19:43:11] WARNING: Please provide your Discord Bot token in _config.yml
+[19:43:56] INFO: Connected as Annoy Chat#3547 [19:43]
+Version 1
+[4/7/2022 12:00:00 AM] INFO: Connected as Annoy Chat#3547 [19:44]
+Version 1
+[4/7/2022 12:00:00 AM] INFO: Connected as Annoy Chat#3547 [19:45]
+Version 1
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod:                                      
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod:                          
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: Unknown command. Type "help" for help.
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: A kick occurred in your connection, so you have been routed to limbo!
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: disconnect.spam
+[4/7/2022 12:00:00 AM] LOG: Processing message from mod: You were spawned in Limbo.
+[04/07 07:48 PM] INFO: Connected as Annoy Chat#3547 [19:48]
+Version 1
