@@ -110,7 +110,7 @@ namespace AnnoyChat.Modules
         }
 
         [Command("execute")]
-        public async Task Execute(string content)
+        public async Task Execute([Remainder] string content)
         {
             if (!(((SocketGuildUser)Context.User).GuildPermissions.Administrator == true || Context.User.Id == Main.botMaintainerID))
                 return;
